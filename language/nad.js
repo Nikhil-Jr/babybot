@@ -1,9 +1,9 @@
 exports.wait = () => {
-	return`*「❗」WAIT KAK*`
+	return`*「❗」WAIT BRO*`
 }
 
 exports.succes = () => {
-	return`*「 SUKSES 」*`
+	return`*「 SUCCESS 」*`
 }
 
 exports.lvlon = () => {
@@ -15,23 +15,23 @@ exports.lvloff = () => {
 }
 
 exports.lvlnul = () => {
-	return`*「❗」LEVELMU MASIH KOSONG*`
+	return`*「❗」YOUR LEVEL IS STILL EMPTY*`
 }
 
 exports.lvlnoon = () => {
-	return`*「❗」LEVEL DI GRUB BELUM DI AKTIFKAN*`
+	return`*「❗」THE GRUB LEVELS HAVE NOT BEEN ACTIVATED*`
 }
 
 exports.nsfwoff = () => {
-	return`*「❗」NSFW BELUM DI AKTIFKAN*`
+	return`*「❗」NSFW NOT ACTIVATED*`
 }
 
 exports.noregis = () => {
-	return`*「❗」BELUM VERIFIKASI「❗」*\n\nketik : @verify`
+	return`*「❗」VERIFY FIRST☺️「❗」*\n\nEXAMPLE : @verify`
 }
 
 exports.baned = () => {
-	return`*「❗」SORRY SORRY AJA NIH BRO, TAPI KAU SUDAH KU BANNED YAHAHAHA HAYUUU :V*`
+	return`*「❗」 :V*`
 }
 
 exports.premium = (prefix) => {
