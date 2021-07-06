@@ -51,7 +51,7 @@ Open it [`Ramlan.json`](https://github.com/Nikhil-Jr/babybot/edit/main/settings/
 {
     "botName": "ALEENA BOT",
     "ownerName": "NIKHIL JR",
-    "ownerNumbers": "919746138832",
+    "ownerNumbers": "9197********",
     "ZeksApi": "apivinz",
     "botPrefix": "!",
     "GrupLimitz": "0",
