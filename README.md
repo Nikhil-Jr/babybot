@@ -46,7 +46,7 @@ Prepare tools and materials.
 > coffee+cigarette ;v
 ```
 ## Edit here
-Open it [`NikhilJr.json`](https://github.com/Nikhil-Jr/babybot/edit/main/settings/Ramlan.json). Apikey Free Stay registered [`ZEKS API`](https://api.lolhuman.xyz/login).
+Open it [`Ramlan.json`](https://github.com/Nikhil-Jr/babybot/edit/main/settings/Ramlan.json). Apikey Free Stay registered [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
     "botName": "ALEENA BOT",
